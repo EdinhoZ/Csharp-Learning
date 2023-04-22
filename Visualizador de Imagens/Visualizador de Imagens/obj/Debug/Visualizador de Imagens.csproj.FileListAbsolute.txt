@@ -1,0 +1,10 @@
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe.config
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.pdb
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.AssemblyReference.cache
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Form1.resources
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Properties.Resources.resources
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.GenerateResource.cache
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.exe
+E:\API\C#\Formulários\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.pdb

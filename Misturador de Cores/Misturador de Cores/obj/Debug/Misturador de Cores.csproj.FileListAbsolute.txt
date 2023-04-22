@@ -1,0 +1,10 @@
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\bin\Debug\Misturador de Cores.exe.config
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\bin\Debug\Misturador de Cores.exe
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\bin\Debug\Misturador de Cores.pdb
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador de Cores.csproj.AssemblyReference.cache
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador_de_Cores.Form1.resources
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador_de_Cores.Properties.Resources.resources
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador de Cores.csproj.GenerateResource.cache
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador de Cores.csproj.CoreCompileInputs.cache
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador de Cores.exe
+E:\API\C#\Formulários\Misturador de Cores\Misturador de Cores\obj\Debug\Misturador de Cores.pdb
