@@ -1,0 +1,10 @@
+E:\API\C#\FormsGraus\FormsGraus\bin\Debug\FormsGraus.exe.config
+E:\API\C#\FormsGraus\FormsGraus\bin\Debug\FormsGraus.exe
+E:\API\C#\FormsGraus\FormsGraus\bin\Debug\FormsGraus.pdb
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.csproj.AssemblyReference.cache
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.Form1.resources
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.Properties.Resources.resources
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.csproj.GenerateResource.cache
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.csproj.CoreCompileInputs.cache
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.exe
+E:\API\C#\FormsGraus\FormsGraus\obj\Debug\FormsGraus.pdb
